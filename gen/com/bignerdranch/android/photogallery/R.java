@@ -21,6 +21,7 @@ public final class R {
         public static final int gridView=0x7f080001;
         public static final int menu_item_clear=0x7f080004;
         public static final int menu_item_search=0x7f080003;
+        public static final int menu_item_toggle_polling=0x7f080005;
     }
     public static final class layout {
         public static final int activity_fragment=0x7f030000;
@@ -35,8 +36,12 @@ public final class R {
         public static final int clear_search=0x7f050006;
         public static final int hello_world=0x7f050001;
         public static final int menu_settings=0x7f050002;
+        public static final int new_pictures_text=0x7f05000a;
+        public static final int new_pictures_title=0x7f050009;
         public static final int search=0x7f050005;
         public static final int search_hint=0x7f050004;
+        public static final int start_polling=0x7f050007;
+        public static final int stop_polling=0x7f050008;
         public static final int title_activity_photo_gallery=0x7f050003;
     }
     public static final class style {
